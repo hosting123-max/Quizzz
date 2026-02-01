@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Interactive Quiz</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- Top Info (outside card) -->
+<div class="top-info">
+    <span id="questionCount">Question 1 / 10</span>
+    <span id="scoreCount">Score: 0</span>
+</div>
+
+<!-- Quiz Card -->
+<div class="quizz-card">
+
+    <!-- Question -->
+    <h2 class="quizz-question" id="question"></h2>
+
+    <!-- Options -->
+    <ol id="optionsList"></ol>
+
+    <!-- Result + Restart -->
+    <div class="result-box">
+        <p class="quizz-response" id="responseText"></p>
+
+        <!-- Restart Button (hidden until quiz ends) -->
+        <button id="restartBtn" style="display:none;">
+             Restart Quiz
+        </button>
+    </div>
+
+</div>
+
+<!-- JS -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
