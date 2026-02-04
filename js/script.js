@@ -3,90 +3,90 @@ const quiz = [
   {
     q: "What does the term quid pro quo mean?",
     o: [
-      "Helping without expecting anything",
-      "Something for something",
-      "Being kind to everyone",
-      "Working alone"
+      "A. Helping without expecting anything",
+      "B. Something for something",
+      "C. Being kind to everyone",
+      "D. Working alone"
     ],
     a: 1
   },
   {
     q: "Which sentence best explains quid pro quo?",
     o: [
-      "Helping without any return",
-      "Taking without giving",
-      "Giving something to get something back",
-      "Ignoring others"
+      "A. Helping without any return",
+      "B. Taking without giving",
+      "C. Giving something to get something back",
+      "D. Ignoring others"
     ],
     a: 2
   },
   {
     q: "Quid pro quo is based on which idea?",
-    o: ["One-sided help", "Exchange", "Punishment", "Luck"],
+    o: ["A. One-sided help", "B. Exchange", "C. Punishment", "D. Luck"],
     a: 1
   },
   {
     q: "In daily life, quid pro quo can be:",
     o: [
-      "Always illegal",
-      "Always harmful",
-      "Normal and fair",
-      "Impossible"
+      "A. Always illegal",
+      "B. Always harmful",
+      "C. Normal and fair",
+      "D. Impossible"
     ],
     a: 2
   },
   {
     q: "Which situation is a simple example?",
     o: [
-      "Donating money secretly",
-      "Helping a friend and expecting nothing",
-      "I help you with homework, you help me later",
-      "Being polite to strangers"
+      "A. Donating money secretly",
+      "B. Helping a friend and expecting nothing",
+      "C. I help you with homework, you help me later",
+      "D. Being polite to strangers"
     ],
     a: 2
   },
   {
     q: "What moral value is important in quid pro quo?",
-    o: ["Greed", "Fairness and consent", "Fear", "Competition"],
+    o: ["A. Greed", "B. Fairness and consent", "C. Fear", "D. Competition"],
     a: 1
   },
   {
     q: "Why is consent important in quid pro quo?",
     o: [
-      "To make it faster",
-      "To avoid cheating",
-      "To ensure fairness and choice",
-      "To gain power"
+      "A. To make it faster",
+      "B. To avoid cheating",
+      "C. To ensure fairness and choice",
+      "D. To gain power"
     ],
     a: 2
   },
   {
     q: "Which example shows an unfair quid pro quo?",
     o: [
-      "Two friends sharing notes",
-      "A teacher forcing favors for marks",
-      "Helping a classmate study",
-      "Group project teamwork"
+      "A. Two friends sharing notes",
+      "B. A teacher forcing favors for marks",
+      "C. Helping a classmate study",
+      "D. Group project teamwork"
     ],
     a: 1
   },
   {
     q: "Is quid pro quo always wrong?",
     o: [
-      "Yes, always",
-      "No, it can be fair if both agree",
-      "Only in schools",
-      "Only between friends"
+      "A. Yes, always",
+      "B. No, it can be fair if both agree",
+      "C. Only in schools",
+      "D. Only between friends"
     ],
     a: 1
   },
   {
     q: "When does quid pro quo become unethical?",
     o: [
-      "When both people are happy",
-      "When it involves gifts",
-      "When someone forces another using power",
-      "When friends help each other"
+      "A. When both people are happy",
+      "B. When it involves gifts",
+      "C. When someone forces another using power",
+      "D. When friends help each other"
     ],
     a: 2
   }
